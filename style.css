@@ -260,3 +260,13 @@ input, textarea {
   height: 60px;
   width: 400px;
 }
+.footer-section p {
+  font-size: 100px;
+  text-align: center;
+}
+.logo {
+  color: #FD6E0A;
+}
+.footer-section div {
+  text-align: center;
+}
