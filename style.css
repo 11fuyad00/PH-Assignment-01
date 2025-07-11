@@ -285,3 +285,7 @@ nav ul {
   padding: 0;
   margin: 0;
 }
+.btn-primary:hover {
+  background-color: rgba(0, 0, 255, 0.591);
+  color: white;
+}
