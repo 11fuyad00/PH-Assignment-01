@@ -270,3 +270,18 @@ input, textarea {
 .footer-section div {
   text-align: center;
 }
+nav ul li a {
+  text-align: center;
+  text-decoration: none; 
+  color: black; 
+  font-size: 18px;
+  font-weight: bold;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  gap: 40px;
+  padding: 0;
+  margin: 0;
+}
